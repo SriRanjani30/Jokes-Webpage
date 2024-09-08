@@ -7,3 +7,4 @@
    Background.jpg
 2. Put all the files in same folder. Place "Background.jpg" in a folder named "Images" which should be located in the same place as other files are.
 3. now open the "Webpage.html" file in your browser and you will see the Random jokes Webpage.
+![Screenshot (3454)](https://github.com/user-attachments/assets/254a2a6b-3e11-423c-9802-84bd789edc6e)
